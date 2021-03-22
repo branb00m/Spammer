@@ -1,2 +1,2 @@
 # Spammer
-Simple Discord channel spammer made in Python3.8
+Simple Discord channel spammer made in Python 3.8
