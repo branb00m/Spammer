@@ -15,7 +15,7 @@ async def on_ready():
 
 @bot.command(aliases=["spam", "sm", "cs", "rape", "crape", "cr"])
 async def _webhook_channel_spammer(ctx:Context, arg:str=None):
-    """Proof of concept of webhook/channel spammer in just one line!
+    """Proof of webhook/channel spammer in just one line.
     Equivelant to: ```py
     for channel in ctx.guild.channels:
         if type(channel) == TextChannel:
